@@ -1,0 +1,6 @@
+1) File train.py
++ Scrape twitter tweet
+
++ Preprocessing tweet 
+
++ Cluster tweets from users base on td idf
